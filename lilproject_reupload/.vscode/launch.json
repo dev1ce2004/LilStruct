@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch lilproject",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/lilproject",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "preLaunchTask": "build lilproject",
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\msys64\\ucrt64\\bin\\gdb.exe"
+        }
+    ]
+}

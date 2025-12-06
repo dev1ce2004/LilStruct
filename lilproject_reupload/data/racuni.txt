@@ -1,0 +1,10 @@
+data/racun1.txt
+data/racun2.txt
+data/racun3.txt
+data/racun4.txt
+data/racun5.txt
+data/racun6.txt
+data/racun7.txt
+
+
+

@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build lilproject",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-Iinclude",
+                "src/main.c",
+                "src/racuni.c",
+                "src/artikli.c",
+                "-o",
+                "lilproject.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}

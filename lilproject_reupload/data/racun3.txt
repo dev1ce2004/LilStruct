@@ -1,0 +1,4 @@
+2025-12-05
+sampon_za_kosu,1,80
+maska_za_kosu,2,21.00
+
